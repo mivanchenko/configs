@@ -1,0 +1,30 @@
+[BrowseView]
+ShowApplicationVersions=true
+
+[CheckUpdate]
+checkUpdatesOnBattery=false
+checkUpdatesOnMobile=false
+distroUpgrade=2
+installUpdatesOnBattery=false
+installUpdatesOnMobile=false
+interval=0
+
+[FilterMenu]
+FilterNative=true
+FilterNewest=true
+
+[SessionInstaller]
+Height 1080=280
+Width 1920=724
+
+[Transaction]
+ShowApplicationLauncher=true
+
+[UpdateView]
+ShowSizes=true
+ShowVersions=true
+
+[requirementsDialog]
+Height 1080=599
+Width 1920=937
+autoConfirm=true

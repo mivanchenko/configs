@@ -1,0 +1,18 @@
+[KPropertiesDialog]
+Height 1080=429
+Width 1920=314
+
+[MainWindow]
+Height 1080=1081
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1921
+
+[SideBar-BrowseMode]
+IsVisible=true
+
+[SideBar-FullScreenMode]
+IsVisible=false
+
+[SideBar-ViewMode]
+IsVisible=true

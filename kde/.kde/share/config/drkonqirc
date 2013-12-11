@@ -1,0 +1,17 @@
+[$Version]
+update_info=drkonqi-rename-config-section.upd:kde-4.11
+
+[General]
+Height 1080=375
+Height 768=364
+Width 1366=640
+Width 1920=640
+
+[KFileDialog Settings]
+Height 1080=600
+Recent Files[$e]=$HOME/Documents/crashes/plasma-desktop-20140204-205702.kcrash.txt,$HOME/Documents/crashes/plasma-desktop-20140204-205702.kcrash.txt
+Recent URLs[$e]=$HOME/Documents/crashes/
+Width 1920=960
+
+[SystemInformation]
+CompiledSources=false

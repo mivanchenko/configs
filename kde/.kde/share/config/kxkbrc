@@ -1,0 +1,13 @@
+[Layout]
+DisplayNames=US,RU
+LayoutList=us,ru
+LayoutLoopCount=-1
+Model=pc101
+Options=grp_led:scroll,grp:lwin_toggle
+ResetOldOptions=true
+ShowFlag=true
+ShowLabel=true
+ShowLayoutIndicator=false
+ShowSingle=false
+SwitchMode=WinClass
+Use=true

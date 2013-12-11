@@ -1,0 +1,65 @@
+kcminputrc Mouse cursorTheme 'Oxygen_White'
+/home/michael/.kde/share/config/kcminputrc
+/usr/share/kde-settings/kde-profile/default/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+kcminputrc Mouse cursorSize ''
+/home/michael/.kde/share/config/kcminputrc
+/usr/share/kde-settings/kde-profile/default/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+ksplashrc KSplash Theme SchroedingerCat
+!/home/michael/.kde/share/config/ksplashrc
+/usr/share/kde-settings/kde-profile/default/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+ksplashrc KSplash Engine KSplashX
+!/home/michael/.kde/share/config/ksplashrc
+/usr/share/kde-settings/kde-profile/default/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+krandrrc Display ApplyOnStartup false
+!/home/michael/.kde/share/config/krandrrc
+!/usr/share/kde-settings/kde-profile/default/share/config/krandrrc
+!/usr/share/config/krandrrc
+*
+krandrrc Display StartupCommands ''
+!/home/michael/.kde/share/config/krandrrc
+!/usr/share/kde-settings/kde-profile/default/share/config/krandrrc
+!/usr/share/config/krandrrc
+*
+krandrrc [Screen0]
+!/home/michael/.kde/share/config/krandrrc
+!/usr/share/kde-settings/kde-profile/default/share/config/krandrrc
+!/usr/share/config/krandrrc
+*
+krandrrc [Screen1]
+!/home/michael/.kde/share/config/krandrrc
+!/usr/share/kde-settings/kde-profile/default/share/config/krandrrc
+!/usr/share/config/krandrrc
+*
+krandrrc [Screen2]
+!/home/michael/.kde/share/config/krandrrc
+!/usr/share/kde-settings/kde-profile/default/share/config/krandrrc
+!/usr/share/config/krandrrc
+*
+krandrrc [Screen3]
+!/home/michael/.kde/share/config/krandrrc
+!/usr/share/kde-settings/kde-profile/default/share/config/krandrrc
+!/usr/share/config/krandrrc
+*
+kcmfonts General forceFontDPI 0
+/home/michael/.kde/share/config/kcmfonts
+!/usr/share/kde-settings/kde-profile/default/share/config/kcmfonts
+!/usr/share/config/kcmfonts
+*
+kdeglobals Locale Language '' # trigger requesting languages from KLocale
+/home/michael/.kde/share/config/kdeglobals
+/usr/share/kde-settings/kde-profile/default/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+*
+kdeglobals Locale Country ''
+/home/michael/.kde/share/config/kdeglobals
+/usr/share/kde-settings/kde-profile/default/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+*

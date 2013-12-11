@@ -1,0 +1,25 @@
+[AddDialog]
+LastMimeType=application/x-compressed-tar
+
+[KFileDialog Settings][$i]
+Height 1080[$i]=630
+Recent Files[$ie]=$HOME/Documents/backups/Manager.201311.tar.gz,$HOME/Documents/backups/Manager.201311.tar.gz
+Recent URLs[$ie]=$HOME/Documents/backups/
+Width 1920[$i]=1008
+
+[MainWindow]
+Height 1080=480
+State=AAAA/wAAAAD9AAAAAAAAA9UAAAGLAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=981
+splitterSizes=580,398
+
+[Recent Files]
+File1[$e]=$HOME/npatgpc.dl_
+File2[$e]=$HOME/Downloads/IE11.Win7.ForLinuxVirtualBox.part4.rar
+Name1[$e]=npatgpc.dl_
+Name2[$e]=IE11.Win7.ForLinuxVirtualBox.part4.rar
+
+[Viewer]
+Height 1080=400
+Width 1920=560

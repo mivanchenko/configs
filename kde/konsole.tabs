@@ -1,0 +1,4 @@
+#title: root   ;; profile: Shell ;; workdir: ~ ;; command: su -m
+#title: bash   ;; profile: Shell ;; workdir: ~
+#title: deploy ;; profile: Shell ;; workdir: ~
+#title: code   ;; profile: Shell ;; workdir: ~

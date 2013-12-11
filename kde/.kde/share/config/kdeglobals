@@ -1,0 +1,63 @@
+[$Version]
+update_info=kded.upd:kde3.0
+
+[Appmenu Style]
+Style=InApplication
+
+[DirSelect Dialog]
+DirSelectDialog Size=842,588
+History Items[$e]=file://$HOME/Downloads
+
+[General]
+desktopFont=Sans Serif,10,-1,5,50,0,0,0,0,0
+fixed=Liberation Mono,12,-1,5,50,0,0,0,0,0
+font=Sans Serif,10,-1,5,50,0,0,0,0,0
+menuFont=Sans Serif,10,-1,5,50,0,0,0,0,0
+smallestReadableFont=Sans Serif,11,-1,5,50,0,0,0,0,0
+taskbarFont=Sans Serif,10,-1,5,50,0,0,0,0,0
+toolBarFont=Sans Serif,10,-1,5,50,0,0,0,0,0
+
+[KDE]
+ShowIconsInMenuItems=true
+ShowIconsOnPushButtons=true
+
+[KDE-Global GUI Settings]
+GraphicEffectsLevel=6
+
+[KFileDialog Settings]
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=0
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Previews=false
+Show Bookmarks=false
+Show Full Path=false
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+Speedbar Width=164
+View Style=Simple
+listViewIconSize=0
+
+[KShortcutsDialog Settings]
+Dialog Size=635,480
+
+[Locale]
+BinaryUnitDialect=2
+Country=ua
+DateFormat=%a, %d %B
+DateFormatShort=%d/%m/%y
+DayPeriod1=am,Ante Meridiem,,A,00:00:00.000,11:59:59.999,0,12
+DayPeriod2=pm,Post Meridiem,,P,12:00:00.000,23:59:59.999,0,12
+TimeFormat=%H:%M
+
+[Toolbar style]
+ToolButtonStyle=TextBesideIcon
+ToolButtonStyleOtherToolbars=TextBesideIcon
+
+[WM]
+activeFont=Sans Serif,10,-1,5,50,0,0,0,0,0

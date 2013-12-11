@@ -1,0 +1,37 @@
+[General]
+Recent Urls[$e]=file://$HOME/bin/2013-11-27-13-43-26.avi,file://$HOME/Documents/RR/Choice Stream.mov
+TimeFormat=1
+Volume=0.748016357421875
+
+[KFileDialog Settings][$i]
+Height 1080[$i]=630
+Recent Files[$ie]=2013-11-27-13-43-26.avi,$HOME/bin/2013-11-27-13-43-26.avi
+Recent URLs[$ie]=$HOME/bin/
+Width 1920[$i]=1008
+
+[MainWindow]
+Height 1080=1081
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOIAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1921
+
+[file:///home/michael/Documents/RR/Choice Stream.mov]
+Brightness=0
+Contrast=0
+Date=20/01/2014
+Hue=0
+IsVideo=true
+Position=5340
+Preferred Size=1920,904
+Saturation=0
+Subtitle=0
+
+[file:///home/michael/bin/2013-11-27-13-43-26.avi]
+Brightness=0
+Contrast=0
+Date=27/11/2013
+Hue=0
+IsVideo=false
+Position=4409
+Preferred Size=100,30
+Saturation=0

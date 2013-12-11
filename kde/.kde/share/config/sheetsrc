@@ -1,0 +1,56 @@
+[DockWidget sharedtooldocker]
+TabbedMode=false
+
+[MainWindow]
+Height 1080=1081
+Width 1920=1921
+ko_x=1366
+ko_y=38
+
+[Recent Dirs]
+OpenDialog[$e]=$HOME/Documents
+
+[RecentFiles]
+File1[$e]=$HOME/Documents/Manager.ods
+Name1[$e]=Manager.ods
+
+[calligra]
+DevicePlugins=spacenavigator
+DevicePluginsDisabled=
+DockerPlugins=calligradockers
+DockerPluginsDisabled=
+FlakePlugins=formulashape,vectorshape,textshape
+ShapePlugins=artistictextshape,chartshape,musicshape,pathshapes,pictureshape,pluginshape,spreadsheetshape,videoshape,webshape
+ShapePluginsDisabled=
+TextEditingPlugins=autocorrect,changecase,spellcheck
+ToolPlugins=basicflakesplugin,defaulttools
+
+[sheets]
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAAeAAADWPwCAAAAAfsAAAAOAFQAbwBvAGwAQgBvAHgBAAAAbwAAA1gAAAAAAAAAAAAAAAEAAAEaAAADPvwCAAAACvsAAAAgAHMAaABhAHIAZQBkAHQAbwBvAGwAZABvAGMAawBlAHIAAAAAdgAAAN8AAABlAQAABfsAAAAiAFMAdAByAG8AawBlACAAUAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAAAAAAAA+wAAABYAUwB0AHkAbABlAEQAbwBjAGsAZQByAAAAA3gAAABPAAAAVQAAAFX7AAAAIABTAGgAYQBwAGUAIABQAHIAbwBwAGUAcgB0AGkAZQBzAAAAAAD/////AAAAHQEAAAX7AAAAIgBTAGgAYQBkAG8AdwAgAFAAcgBvAHAAZQByAHQAaQBlAHMAAAAAAP////8AAAAAAAAAAPsAAAASAFMAYwByAGkAcAB0AGkAbgBnAAAAAAD/////AAAAjQEAAAX7AAAAHgBwAHkAYwBvAG4AcwBvAGwAZQBkAG8AYwBrAGUAcgAAAAAA/////wAAAB0BAAAF+wAAAA4ATQBvAGQAZQBCAG8AeAEAAAB2AAACzQAAAJwBAAAF+wAAACoAUwBoAGEAcABlAEMAbwBsAGwAZQBjAHQAaQBvAG4ARABvAGMAawBlAHIBAAADRgAAAG4AAABSAAgAHPsAAAAoAFMAbgBhAHAARwB1AGkAZABlACAAUAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAFgBAAAFAAAAAgAAB4AAAAA7/AEAAAAB+wAAADAAQwBhAGwAbABpAGcAcgBhAFMAaABlAGUAdABzAEMAZQBsAGwARQBkAGkAdABvAHIBAAAAAAAAB4AAAAEWAQAABQAABmMAAAM+AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAYAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAFgBlAGQAaQB0AFQAbwBvAGwAQgBhAHIBAAABAv////8AAAAAAAAAAAAAACIAbgBhAHYAaQBnAGEAdABpAG8AbgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAmAGYAbwBuAHQAUAByAG8AcABlAHIAdAB5AFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABoAZgBvAHIAbQBhAHQAVABvAG8AbABCAGEAcgAAAAJ0/////wAAAAAAAAAAAAAAKgBjAG8AbABvAHIAQQBuAGQAQgBvAHIAZABlAHIAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+
+[sheets][DockWidget ModeBox]
+Collapsed=false
+DockArea=2
+
+[sheets][DockWidget Scripting]
+Collapsed=false
+DockArea=2
+
+[sheets][DockWidget Shape Properties]
+Collapsed=false
+DockArea=2
+
+[sheets][DockWidget SnapGuide Properties]
+Collapsed=false
+DockArea=2
+
+[sheets][DockWidget StyleDocker]
+Collapsed=false
+DockArea=2
+
+[sheets][DockWidget sharedtooldocker]
+Collapsed=false
+DockArea=2
+
+[theme]
+Theme=Default

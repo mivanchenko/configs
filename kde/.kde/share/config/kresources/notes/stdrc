@@ -1,0 +1,11 @@
+[General]
+ResourceKeys=VTypevizxd
+Standard=VTypevizxd
+
+[Resource_VTypevizxd]
+NotesURL[$e]=file://$HOME/.kde/share/apps/knotes/notes.ics
+ResourceIdentifier=VTypevizxd
+ResourceIsActive=true
+ResourceIsReadOnly=false
+ResourceName=Notes
+ResourceType=file

@@ -1,0 +1,11 @@
+[$Version]
+update_info=mailtransports.upd:initial-kmail-migration,mailtransports.upd:initial-knode-migration
+
+[General]
+default-transport=1479948469
+
+[Transport kmail-1]
+host=/usr/sbin/sendmail
+id=1479948469
+name=Sendmail
+type=sendmail

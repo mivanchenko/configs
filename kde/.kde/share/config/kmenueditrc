@@ -1,0 +1,17 @@
+[General]
+SplitterSizes=528,749
+
+[KFileDialog Settings]
+Height 1080=600
+Recent Files[$e]=date_to_klipper.sh,$HOME/configs/date_to_klipper.sh
+Recent URLs[$e]=$HOME/configs/
+Width 1920=960
+
+[MainWindow]
+Height 1080=706
+State=AAAA/wAAAAD9AAAAAAAABQAAAAElAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1280
+
+[Shortcut Schemes]
+Current Scheme=Test Scheme

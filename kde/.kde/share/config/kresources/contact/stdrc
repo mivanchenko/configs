@@ -1,0 +1,12 @@
+[General]
+PassiveResourceKeys=
+ResourceKeys=eSyRkThDS5
+Standard=eSyRkThDS5
+
+[Resource_eSyRkThDS5]
+FileFormat=vcard
+ResourceIdentifier=eSyRkThDS5
+ResourceIsActive=true
+ResourceIsReadOnly=false
+ResourceName=Default Address Book
+ResourceType=file

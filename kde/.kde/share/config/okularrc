@@ -1,0 +1,47 @@
+Height 1080=1081
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAO5AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Width 1920=1921
+
+[Desktop Entry]
+FullScreen=false
+
+[KFileDialog Settings]
+Height 1080=600
+Recent Files[$e]=$HOME/Pictures/captcha,$HOME/Pictures/captcha
+Recent URLs[$e]=$HOME/Pictures/
+Width 1920=960
+
+[MainWindow]
+Height 1080=1081
+Height 480=481
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1367
+Width 1920=1921
+Width 640=641
+
+[Print Preview]
+Height 1080=500
+Width 1920=600
+
+[Recent Files]
+File1[$e]=$HOME/Documents/fin/ЕН 3 кв 2013 Иванченко.pdf
+File2[$e]=$HOME/Documents/books/Perl_Best_Practices_-_2005.pdf
+File3[$e]=$HOME/Documents/rr/ECOMPI-8/JSON Integration Guide.pdf
+File4[$e]=$HOME/Documents/cv/CV_Ivanchenko_Michael_5_3.pdf
+File5[$e]=$HOME/Documents/books/Minimal Perl For UNIX and Linux People.pdf
+File6[$e]=$HOME/Documents/new_hire/ECOM-NewHireSetup-230913-0139-990.pdf
+File7[$e]=/var/tmp/Tournaments Schedule.pdf
+File8[$e]=/var/tmp/Tournaments Schedule-1.pdf
+File9[$e]=/var/tmp/Release Planner 2014 (9 week cycles) - Tournaments.pdf
+Name1[$e]=ЕН 3 кв 2013 Иванченко.pdf
+Name2[$e]=Perl_Best_Practices_-_2005.pdf
+Name3[$e]=JSON Integration Guide.pdf
+Name4[$e]=CV_Ivanchenko_Michael_5_3.pdf
+Name5[$e]=Minimal Perl For UNIX and Linux People.pdf
+Name6[$e]=ECOM-NewHireSetup-230913-0139-990.pdf
+Name7[$e]=Tournaments Schedule.pdf
+Name8[$e]=Tournaments Schedule-1.pdf
+Name9[$e]=Release Planner 2014 (9 week cycles) - Tournaments.pdf

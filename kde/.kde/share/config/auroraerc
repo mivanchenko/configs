@@ -1,0 +1,11 @@
+[Engine]
+EngineType=qml
+ThemeName=kwin4_decoration_qml_plastik
+
+[kwin4_decoration_qml_plastik]
+BorderSize=1
+ButtonSize=1
+CloseOnDoubleClickMenuButton=false
+titleAlignCenter=true
+titleAlignLeft=false
+titleShadow=false

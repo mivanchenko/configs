@@ -1,0 +1,36 @@
+[ConfigDialog]
+Height 1080=246
+Width 1920=501
+
+[KFileDialog Settings][$i]
+Height 1080[$i]=600
+Height 768[$i]=630
+Recent Files[$ie]=Resolution,$HOME/Documents/Linux/Resolution
+Recent URLs[$ie]=$HOME/Documents/Linux/
+Width 1366[$i]=1008
+Width 1920[$i]=960
+
+[KPropertiesDialog]
+Height 1080=371
+Width 1920=449
+
+[MainWindow]
+Height 1050=1051
+Height 1080=1081
+Height 547=548
+Height 720=721
+Height 768=769
+Height 900=901
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOzAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1280=1281
+Width 1366=1920
+Width 1368=1369
+Width 1440=1441
+Width 1680=1681
+Width 1920=1921
+Width 974=975
+
+[Notification Messages]
+FontSettingsChanged=false
